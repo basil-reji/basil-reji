@@ -1,4 +1,7 @@
-# Hi there 👋, I'm Basil Reji
+# Hi, I'm [Basil Reji!]("https://basilreji.me/")
+
+## About Me
+  I'm a Second-year Electronics and Communication Engineering student at Government Engineering College Wayanad. and a functioning volunteer at different non-benefit organisations and associations. Applies analytical skills to resolve design and development issues. Enthusiastic about latest technologies and loved to learn new things.
 
 <!--
 **basil-reji/basil-reji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
