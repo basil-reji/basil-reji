@@ -1,4 +1,4 @@
-# Hi, I'm [Basil Reji!](https://www.linkedin.com/in/basilreji/)
+# Hi, I'm [Basil Reji!](https://www.basilreji.me/)
 
 ## About Me
   I'm a Second-year Electronics and Communication Engineering student at Government Engineering College Wayanad. and a functioning volunteer at different non-profit organisations and associations. Applies analytical skills to resolve design and development issues. Enthusiastic about latest technologies and love to learn new things.
