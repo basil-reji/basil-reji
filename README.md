@@ -17,6 +17,11 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 ---
+
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Basil-Reji&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" width="50%" height="200px" style="margin-top:10px width:100%"/>
+
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basil-Reji&layout=compact&theme=github_dark&hide_border=true" width="50%" height="200px" style="margin-top:10px width:100%"/>
+
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Basil-Reji&theme=dark&hide_border=true" width="50%" height="200px" style="margin-top:10px width:100%"/>
+
 ---
