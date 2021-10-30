@@ -18,10 +18,8 @@
 
 ---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Basil-Reji&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" width="50%" height="200px" style="margin-top:10px width:100%"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Basil-Reji&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basil-Reji&layout=compact&theme=github_dark&hide_border=true" width="50%" style="margin-top:10px width:100%"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basil-Reji&layout=compact&theme=github_dark&hide_border=true" />
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Basil-Reji&theme=dark&hide_border=true" width="50%" style="margin-top:10px width:100%"/>
-
----
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=Basil-Reji&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117" />
