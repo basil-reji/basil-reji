@@ -16,5 +16,7 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
-## Most Used Languages
-[![languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Basil-Reji&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+---
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Basil-Reji&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" width="50%" height="200px" style="margin-top:10px width:100%"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basil-Reji&layout=compact&theme=github_dark&hide_border=true" width="50%" height="200px" style="margin-top:10px width:100%"/>
+---
