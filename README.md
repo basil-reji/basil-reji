@@ -1,7 +1,7 @@
 # Hi, I'm [Basil Reji!](https://www.basilreji.me/)
 
 ## About Me
-  I'm a Third-year Electronics and Communication Engineering student at Government Engineering College Wayanad. and a functioning volunteer at different non-profit organisations and associations. Applies analytical skills to resolve design and development issues. Enthusiastic about latest technologies and love to learn new things.
+  I'm a Third-year Electronics and Communication Engineering student at Government Engineering College Wayanad. A self-taught creative developer and problem solver, who is extremely enthusiastic about web and cybersecurity. I enjoy tending to the problems of the community by coming up with technological solutions. I am also a passionate volunteer at different non-profit organizations..
 
 ## Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
