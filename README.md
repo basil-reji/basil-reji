@@ -1,7 +1,7 @@
 # Hi, I'm [Basil Reji!](https://www.basilreji.me/)
 
 ## About Me
-  I'm a final-year Electronics and Communication Engineering student at Government Engineering College Wayanad. A self-taught creative developer and problem solver, who is extremely enthusiastic about web and cybersecurity. I enjoy tending to the problems of the community by coming up with technological solutions. I am also a passionate volunteer at different non-profit organizations..
+  I'm a self-taught creative developer and problem solver, who is extremely enthusiastic about web and cybersecurity. I enjoy tending to the problems of the community by coming up with technological solutions. I am also a passionate volunteer at different non-profit organizations..
 
 ## Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
