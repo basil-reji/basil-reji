@@ -67,7 +67,6 @@ I'm a self-taught creative developer and problem solver, deeply passionate about
 
 Let's collaborate, share ideas, and build amazing things together!
 
-- [Website](https://www.basilreji.me/)
 - [LinkedIn](https://www.linkedin.com/in/basilreji/)
 - [Twitter](https://twitter.com/_basil_reji_)
 - [Dev.to](https://dev.to/basilreji)
