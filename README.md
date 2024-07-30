@@ -43,6 +43,7 @@ I'm a self-taught creative developer and problem solver, deeply passionate about
 ![OpenTofu](https://img.shields.io/badge/OpenTofu-%2337BE90.svg?style=for-the-badge&logo=open-tofu&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-%23623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-%23000000.svg?style=for-the-badge&logo=yaml&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%233F3F3F.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ### Operating Systems
 
